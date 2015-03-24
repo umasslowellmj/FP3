@@ -7,7 +7,7 @@ For full description, see the project schedule [on Piazza.][piazza]
 
 ### Team Members
 * github names and real names.
-* Teams of less than two members, or more than four members must get written permission from Mark in advance.
+* Teams of less than two members, or more than three members must get written permission from Mark in advance.
 
 ### A Team Name
 for the purpose of creating a github group

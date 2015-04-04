@@ -1,39 +1,31 @@
 # FP3: Team Declaration
-DUE April 2, 2015 Thursday (2015-04-02)
-
-For full description, see the project schedule [on Piazza.][piazza]
-
-<i>Edit this file to make your report!</i>
+DUE April 2, 2015 Wednesday (2015-04-02)
 
 ### Team Members
-* github names and real names.
-* Teams of less than two members, or more than three members must get written permission from Mark in advance.
+|Name                  |username      |
+|:---------------------|:-------------|
+|Jose Flores           | josefflores  |
+|Munkhjargal Narmandakh| umasslowellmj|
 
 ### A Team Name
-for the purpose of creating a github group
+umloplsp15 - Github group acquired
 
 ### Project Title
-10 words or fewer
+Racket Mathematics and Graph REST API
 
 ### Project Concept
-can be basic, fluid. Details will be in the next assignment.
+A REST API hosted by a racket webserver that computes mathematical equations and generates graphs.
 
 ### Libraries You Plan to Use 
-as a group
+|Library               |Purpose                     | 
+|:---------------------|:---------------------------|
+|[webserver][webserver]|To host the web api         |
+|[json][json]          |To transmit and recieve data|
+|[math][math]          |To compute values           |
+|[plot][plot]          |To generate graphs          |
 
-### How to Do and Submit this assignment
-
-1. To start, [**fork** this repository][forking].
-1. This assignment is just one README.md file, so you can edit it right in github.
-1. Modify the README.md file and [**commit**][ref-commit] changes.
-1. [Create a **pull request**][pull-request] on the original repository to turn in the assignment.
-
-<!-- Links -->
-[piazza]: https://piazza.com/class/i55is8xqqwhmr?cid=453
-[markdown]: https://help.github.com/articles/markdown-basics/
-[forking]: https://guides.github.com/activities/forking/
-[ref-clone]: http://gitref.org/creating/#clone
-[ref-commit]: http://gitref.org/basic/#commit
-[ref-push]: http://gitref.org/remotes/#push
-[pull-request]: https://help.github.com/articles/creating-a-pull-request
-
+<!-- LINKS -->
+[webserver]:http://docs.racket-lang.org/web-server/
+[math]:http://docs.racket-lang.org/math/
+[plot]:http://docs.racket-lang.org/plot/
+[json]:http://docs.racket-lang.org/json/
